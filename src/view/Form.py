@@ -1,6 +1,5 @@
 from datetime import datetime
 from PyQt6.QtWidgets import QWidget, QVBoxLayout, QPushButton, QMessageBox
-
 from src.controller.Server import Server
 from src.data import GenerateFileRequest
 from.widgets import *

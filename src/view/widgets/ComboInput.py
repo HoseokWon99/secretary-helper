@@ -2,7 +2,6 @@ from PyQt6.QtWidgets import QWidget, QHBoxLayout, QComboBox
 from overrides import overrides
 from .FormInput import FormInput
 
-
 class ComboInput(FormInput):
 
     @staticmethod

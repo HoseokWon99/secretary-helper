@@ -1,1 +1,5 @@
-.env
+bazel-bin
+bazel-out
+bazel-secretary_helper
+bazel-testlogs
+dist

@@ -1,5 +1,4 @@
 import os
-
 from PyQt6.QtCore import Qt
 from PyQt6.QtWidgets import QWidget, QPushButton, QFileDialog, QVBoxLayout, QLabel, QMessageBox
 from overrides import overrides

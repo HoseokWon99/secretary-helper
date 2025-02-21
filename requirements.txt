@@ -1,0 +1,4 @@
+pyinstaller
+pandas
+python-docx
+overrides
